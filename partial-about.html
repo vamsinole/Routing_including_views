@@ -1,0 +1,22 @@
+<div><link rel="stylesheet" type="text/css" href="app.css">
+<div class="heading" style="background: #eee;margin: 30px;padding: 10px;text-align: center;border-radius: 2px">
+    <h2>The About Page</h2>
+</div>
+
+<div class="row">
+
+    <!-- COLUMN ONE NAMED VIEW -->
+    <div class="col-sm-6" style="float: left;padding: 32px;margin-left: 16px;">
+        <div ui-view="columnOne"></div>
+    </div>
+
+    <div class="colTwo" style="float: left;padding-top: 32px; padding-left: 64px;padding-right: 32px;padding-bottom: 32px">
+        <div ui-view="columnTwo"></div>
+    </div>
+
+    <div style="float: right;padding-top: 32px; padding-left: 48px;padding-right: 32px;padding-bottom: 32px;text-decoration: none">
+        <div ui-view= "columnThree"></div>
+    </div>
+
+</div>
+</div>
