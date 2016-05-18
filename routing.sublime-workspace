@@ -1,0 +1,365 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ng",
+				"ng-controller	AngularJS"
+			],
+			[
+				"ng-app",
+				"ng-app	AngularJS"
+			],
+			[
+				"fun",
+				"fun	Function"
+			],
+			[
+				"co",
+				"controller	AngularJS"
+			],
+			[
+				"ng-con",
+				"ng-controller	AngularJS"
+			],
+			[
+				"ng-show",
+				"ng-show	AngularJS"
+			],
+			[
+				"cl",
+				"clicked"
+			],
+			[
+				"ng-",
+				"ng-if"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"B",
+				"BUTTON_LANG_TE"
+			],
+			[
+				"BU",
+				"BUTTON_LANG_HI"
+			],
+			[
+				"tra",
+				"translations"
+			],
+			[
+				"$tra",
+				"$translateProvider"
+			],
+			[
+				"but",
+				"button	Tag"
+			],
+			[
+				"tr",
+				"translate"
+			],
+			[
+				"$t",
+				"$translateProvider"
+			],
+			[
+				"scr",
+				"script	Tag"
+			],
+			[
+				"b",
+				"body"
+			],
+			[
+				"ht",
+				"html	(sec.html)"
+			],
+			[
+				"h",
+				"help-block"
+			],
+			[
+				"us",
+				"userForm"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"l",
+				"link"
+			],
+			[
+				"get",
+				"getElementById('aSome')"
+			],
+			[
+				"user",
+				"userForm.$valid"
+			],
+			[
+				"su",
+				"submitForm	(index.html)"
+			],
+			[
+				"vali",
+				"validationApp"
+			],
+			[
+				"va",
+				"validation	(index.html)"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 1172,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"last_filter": "insta",
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: List Unmanaged Packages"
+			],
+			[
+				"termi",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"git clone https://github.com/alienhard/SublimeAllAutocomplete"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/Project Manager/Project Manager.sublime-settings",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/User/Project Manager.sublime-settings",
+		"/F/Examples/complete/app.js",
+		"/F/Examples/complete/index.html",
+		"/F/Examples/show/index.html",
+		"/F/Examples/ngif/index.html",
+		"/F/Examples/form/index.html",
+		"/F/Examples/translator/index.html",
+		"/F/Examples/translator/app.js",
+		"/F/Examples/complete/partial-home.html",
+		"/F/Examples/complete/partial-about.html",
+		"/F/Examples/complete/table-data.html",
+		"/F/Examples/show/app.js",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
+		"/F/Examples/complete/three.html",
+		"/F/Examples/complete/partial-home-list.html",
+		"/F/Examples/form/app.js",
+		"/F/Examples/sec.html",
+		"/F/Examples/second/index.html",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/F/Examples/first.html",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/User/JSON.sublime-settings",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/User/Distraction Free.sublime-settings",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Vamshikrishna/AppData/Roaming/Sublime Text 3/Packages/User/HTML.sublime-settings"
+	],
+	"find":
+	{
+		"height": 26.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ignore",
+			"package",
+			"ignor",
+			"ignore"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1172,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								914,
+								914
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 108.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 26.0
+	},
+	"input":
+	{
+		"height": 34.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "routing.sublime-project",
+	"replace":
+	{
+		"height": 48.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

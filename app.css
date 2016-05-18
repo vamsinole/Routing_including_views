@@ -1,0 +1,10 @@
+.colTwo{
+    float: right;
+    padding-right: 20px;
+    width: 150px;
+}
+.list{
+    background: red;
+    font-size: 14px;
+    height: 20px;
+}
