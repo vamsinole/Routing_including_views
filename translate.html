@@ -1,0 +1,21 @@
+<html>
+<head>
+<title>Angular Translator</title>
+<link rel = "shortcut icon" href = "angular.png">
+
+    <link rel="stylesheet" href="http://netdna.bootstrapcdn.com/bootstrap/3.0.3/css/bootstrap.min.css"> 
+    <style>
+    </style>
+   
+    <script src="http://code.angularjs.org/1.2.6/angular.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate/2.10.0/angular-translate.js"></script>
+    <!-- <script src="trans.js"></script> -->
+</head>
+<body ng-app="" ng-controller="ctrl">
+<h1>{{ 'TITLE' | translate }}</h1>
+<p>{{ 'FOO' | translate }}</p>
+<button class="btn btn-primary" ng-click="changeLang('hi')" translate="{{ 'BUTTON_LANG_HI' | translate }}"></button>
+<button class="btn btn-primary" ng-click="changeLang('en')" translate="{{ 'BUTTON_LANG_EN' | translate }}"></button>
+<button class="btn btn-primary" ng-click="changeLang('te')" translate="{{ 'BUTTON_LANG_TE' | translate }}"></button>
+</body>
+</html>

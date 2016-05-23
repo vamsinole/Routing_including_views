@@ -1,12 +1,13 @@
 <html>
 <head>
-
-    <!-- CSS (load bootstrap) -->
+    
+    <!-- loading the shortcut icon -->
     <link rel = "shortcut icon" href = "angular.png">
     <title>Routing</title>
 
-
+    <!-- CSS (load bootstrap) -->
     <link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css">
+
     <style>
         .navbar { border-radius:0; }
     </style>
@@ -14,7 +15,9 @@
     <!-- JS (load angular, ui-router, and our custom js file) -->
     <script src="http://code.angularjs.org/1.2.13/angular.js"></script>
     <script src="//cdnjs.cloudflare.com/ajax/libs/angular-ui-router/0.2.8/angular-ui-router.min.js"></script>
-    <script src="app.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular-translate/2.10.0/angular-translate.js"></script>
+    <script src="vamsi.js"></script>
+    <script src="trans.js"></script>
 </head>
 
 <!-- apply our angular app to our site -->
@@ -28,14 +31,16 @@
     <ul class="nav navbar-nav">
         <li><a ui-sref="home" >Home</a></li>
         <li><a ui-sref="about" >About</a></li>
+        <li><a ui-sref="rankings" >Tennis Rankings</a></li>
+        <li><a ui-sref="translator">Translator</a></li>
+        <li><a ui-sref="form">Form</a></li>
+        <li><a ui-sref="if">ngIf</a></li>
     </ul>
 </nav>
 
 
 <!-- MAIN CONTENT -->
 <div >
-
-    <!-- THIS IS WHERE WE WILL INJECT OUR CONTENT ============================== -->
 
     <div ui-view style="padding-left: 32px"></div>
 

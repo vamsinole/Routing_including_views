@@ -1,0 +1,18 @@
+<label>Click me: <input type="checkbox" ng-model="checked" ng-init="checked=true" /></label><br/>
+
+<!-- use of ng-if -->
+<span ng-if="checked" class="animate-if">
+  This is removed when the checkbox is unchecked.
+</span>
+<br>
+<label>Click me: <input type="checkbox" ng-model="checkedtwo" ng-init="checkedtwo=false" /></label><br/>
+<span ng-if="checkedtwo" class="animate-if">
+  This is removed when the checkbox is unchecked.
+</span>
+<br>
+
+<!-- use of ng-include -->
+
+<body ng-app = "">
+<div ng-include="'emi.html'"></div>
+</body>

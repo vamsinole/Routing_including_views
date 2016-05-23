@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Http Example</title>
+
+  <!-- loading css file -->
+
+  <link rel="stylesheet" href="app.css">
+</head>
+<body >
+<h2 class="header">ATP Rankings</h2>
+
+Search: <input ng-model="query">
+Sort by :
+
+<!-- using orderProp -->
+<select ng-model="orderProp">
+  <option value="name">Alphabetical</option>
+  <option value="country">Country Alphabetical</option>
+  <option value="rank">rank</option>
+  <option value="age">Youngest</option>
+</select>
+<br><br>
+
+<!-- table for rankings -->
+
+<table style="width: 100%;">
+  <tr>
+
+  <!-- table headings -->
+
+    <th>Rank</th>
+    <th>Player Name</th>
+    <th>Country</th>
+    <th>Age</th>    
+    <th>Points</th>
+  </tr>
+
+  <!-- showing the details we got from json -->
+  
+  <tr ng-repeat = "player in filtered = (players | filter: query | orderBy : orderProp)">
+    <td style="color: #ee1b1b;">{{player.rank}}</td>
+    <td><a class = "name" href="{{player.url}}" target="_blank">{{player.name}}</a></td>
+    <td class="country">{{player.country}}</td>
+    <td>{{player.age}}</td>   
+    <td class="points">{{player.points}}</td>
+</table>
+
+</body>
+</html>

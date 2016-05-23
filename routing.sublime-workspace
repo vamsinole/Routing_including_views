@@ -4,6 +4,66 @@
 		"selected_items":
 		[
 			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"op",
+				"option	Tag"
+			],
+			[
+				"fon",
+				"font-family"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"ali",
+				"text-align"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"siz",
+				"font-size"
+			],
+			[
+				"o",
+				"orderProp"
+			],
+			[
+				"f",
+				"function"
+			],
+			[
+				"get",
+				"get	Get Elements"
+			],
+			[
+				"at",
+				"atpApp"
+			],
+			[
+				"mo",
+				"verbose_module	AngularJS"
+			],
+			[
+				"angu",
+				"angular	AngularJS"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
 				"ng",
 				"ng-controller	AngularJS"
 			],
@@ -88,16 +148,8 @@
 				"userForm"
 			],
 			[
-				"pad",
-				"padding-top"
-			],
-			[
 				"l",
 				"link"
-			],
-			[
-				"get",
-				"getElementById('aSome')"
 			],
 			[
 				"user",
@@ -124,6 +176,30 @@
 			"settings":
 			{
 				"buffer_size": 1172,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Examples/sec.html",
+			"settings":
+			{
+				"buffer_size": 1601,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Examples/http/index.html",
+			"settings":
+			{
+				"buffer_size": 1790,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/F/Examples/http/app.css",
+			"settings":
+			{
+				"buffer_size": 565,
 				"line_ending": "Windows"
 			}
 		}
@@ -223,6 +299,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"78ddfa",
 			"ignore",
 			"package",
 			"ignor",
@@ -244,7 +321,7 @@
 	"groups":
 	[
 		{
-			"selected": 0,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -260,8 +337,8 @@
 						"selection":
 						[
 							[
-								914,
-								914
+								129,
+								129
 							]
 						],
 						"settings":
@@ -271,10 +348,96 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 108.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/F/Examples/sec.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1601,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								626,
+								626
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "/F/Examples/http/index.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1790,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1658,
+								1658
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 681.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "/F/Examples/http/app.css",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 565,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								140,
+								140
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
